@@ -8,9 +8,9 @@
 
   --color-2: #FFFFFF; /* */
 
-  --color-3: #FFDEE9; /* main color */
+  --color-3: #fffcaf; /* main color */
 
-  --color-4: #FFDEE9; /* sub  color */
+  --color-4: #fffcaf; /* sub  color */
 
   --color-5: #46FFFF; /* */
 
@@ -62,9 +62,9 @@ background: transparent;
 
 animation: snow 20s linear infinite;
 
- background-image:url('https://rkalek.github.io/ott/y1.png'),
- url("https://rkalek.github.io/ott/w1.png"),
- url("https://rkalek.github.io/ott/g1.png");
+ background-image:url('https://rkalek.github.io/ott2/y1.png'),
+ url("https://rkalek.github.io/ott2/w1.png"),
+ url("https://rkalek.github.io/ott2/g1.png");
 }
 @keyframes snow {
 
@@ -101,7 +101,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(https://rkalek.github.io/ott/ogd.png) no-repeat; /* url(로고 경로 입력) */
+    background: url(https://rkalek.github.io/ott2/ogd.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
@@ -134,7 +134,7 @@ input[type=radio],
 
 {
 
-cursor: url("https://rkalek.github.io/ott/ori.png") 0 0, auto !important;
+cursor: url("https://rkalek.github.io/ott2/ori.png") 0 0, auto !important;
 
 }
 
@@ -166,7 +166,7 @@ cursor: url("https://rkalek.github.io/ott/ori.png") 0 0, auto !important;
 
 a {
 
-cursor: url("https://rkalek.github.io/ott/ori.png") 0 0, auto !important;
+cursor: url("https://rkalek.github.io/ott2/ori.png") 0 0, auto !important;
 
 }
 
@@ -184,7 +184,7 @@ input[type='text']
 
 {
 
-cursor: url("https://rkalek.github.io/ott/ori.png") 0 0, auto !important;
+cursor: url("https://rkalek.github.io/ott2/ori.png") 0 0, auto !important;
 
 }
 
